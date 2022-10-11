@@ -40,7 +40,7 @@
     "lognext": "0.0.4",
     "mdjavadoc-api": "^1.0.4",
     "moment-timezone": "^0.5.11",
-    "mustache": "^2.3.0",
+    "mustache": "^3.2.1",
     "pluralize": "^3.1.0",
     "purecloud-platform-client-v2": "^109.0.0",
     "q": "^1.4.1",
